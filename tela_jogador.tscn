@@ -1,0 +1,48 @@
+[gd_scene format=3 uid="uid://eshjgojgxilc"]
+
+[node name="TelaJogador" type="Node2D"]
+
+[node name="NomeLabel" type="Label" parent="."]
+offset_left = 254.0
+offset_top = 3.0
+offset_right = 440.0
+offset_bottom = 26.0
+metadata/_edit_use_anchors_ = true
+
+[node name="ScoreLabel" type="Label" parent="."]
+offset_left = 33.0
+offset_top = 2.0
+offset_right = 219.0
+offset_bottom = 25.0
+metadata/_edit_use_anchors_ = true
+
+[node name="ChaveLabel" type="Label" parent="."]
+offset_left = 482.0
+offset_top = 4.0
+offset_right = 668.0
+offset_bottom = 27.0
+metadata/_edit_use_anchors_ = true
+
+[node name="EntradaNomeLineEdit" type="TextEdit" parent="."]
+offset_left = 239.0
+offset_top = 59.0
+offset_right = 509.0
+offset_bottom = 91.0
+text = "Digite seu Nome"
+metadata/_edit_use_anchors_ = true
+
+[node name="BotaoAumentarScore" type="Button" parent="."]
+offset_left = 295.0
+offset_top = 95.0
+offset_right = 430.0
+offset_bottom = 130.0
+text = "Confirmar"
+metadata/_edit_use_anchors_ = true
+
+[node name="BotaoAumentarScore2" type="Button" parent="."]
+offset_left = 296.0
+offset_top = 139.0
+offset_right = 428.0
+offset_bottom = 174.0
+text = "Pontuar"
+metadata/_edit_use_anchors_ = true
