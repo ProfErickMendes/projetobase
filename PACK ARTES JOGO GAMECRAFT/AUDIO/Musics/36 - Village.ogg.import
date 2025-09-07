@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://lbes4b1xskd1"
+path="res://.godot/imported/36 - Village.ogg-bf25504f7619ec605fa32ce09aee3f58.oggvorbisstr"
+
+[deps]
+
+source_file="res://PACK ARTES JOGO GAMECRAFT/AUDIO/Musics/36 - Village.ogg"
+dest_files=["res://.godot/imported/36 - Village.ogg-bf25504f7619ec605fa32ce09aee3f58.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

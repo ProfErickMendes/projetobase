@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://k2v8w8g8prtx"
+path="res://.godot/imported/Hit6.wav-da2625a7342125c14c8f9ac470f8a0ec.sample"
+
+[deps]
+
+source_file="res://PACK ARTES JOGO GAMECRAFT/AUDIO/Sounds/Hit & Impact/Hit6.wav"
+dest_files=["res://.godot/imported/Hit6.wav-da2625a7342125c14c8f9ac470f8a0ec.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

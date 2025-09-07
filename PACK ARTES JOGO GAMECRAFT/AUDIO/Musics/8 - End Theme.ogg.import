@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://b6qmbwup5s062"
+path="res://.godot/imported/8 - End Theme.ogg-25bc351a1e22653752cee724dcdd80a0.oggvorbisstr"
+
+[deps]
+
+source_file="res://PACK ARTES JOGO GAMECRAFT/AUDIO/Musics/8 - End Theme.ogg"
+dest_files=["res://.godot/imported/8 - End Theme.ogg-25bc351a1e22653752cee724dcdd80a0.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

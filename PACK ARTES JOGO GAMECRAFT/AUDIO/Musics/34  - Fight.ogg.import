@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://belj05o8k56ml"
+path="res://.godot/imported/34  - Fight.ogg-753e372963db3ae5a26b29c62f5ff65c.oggvorbisstr"
+
+[deps]
+
+source_file="res://PACK ARTES JOGO GAMECRAFT/AUDIO/Musics/34  - Fight.ogg"
+dest_files=["res://.godot/imported/34  - Fight.ogg-753e372963db3ae5a26b29c62f5ff65c.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

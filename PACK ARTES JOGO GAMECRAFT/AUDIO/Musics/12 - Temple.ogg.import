@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bh8sdbvf74jje"
+path="res://.godot/imported/12 - Temple.ogg-e95f3f02354e90424e9314d8b8395776.oggvorbisstr"
+
+[deps]
+
+source_file="res://PACK ARTES JOGO GAMECRAFT/AUDIO/Musics/12 - Temple.ogg"
+dest_files=["res://.godot/imported/12 - Temple.ogg-e95f3f02354e90424e9314d8b8395776.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

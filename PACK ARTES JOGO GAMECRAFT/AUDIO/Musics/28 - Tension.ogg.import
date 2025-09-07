@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://k8i6kbi07y57"
+path="res://.godot/imported/28 - Tension.ogg-613e60682e59f5df92f89ebbccef2b8b.oggvorbisstr"
+
+[deps]
+
+source_file="res://PACK ARTES JOGO GAMECRAFT/AUDIO/Musics/28 - Tension.ogg"
+dest_files=["res://.godot/imported/28 - Tension.ogg-613e60682e59f5df92f89ebbccef2b8b.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

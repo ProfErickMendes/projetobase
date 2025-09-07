@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dv22hjuneqnlv"
+path="res://.godot/imported/Jump2.wav-33022c038630e3f9d16d378def9d1a7e.sample"
+
+[deps]
+
+source_file="res://PACK ARTES JOGO GAMECRAFT/Audio/Sounds/Jump2.wav"
+dest_files=["res://.godot/imported/Jump2.wav-33022c038630e3f9d16d378def9d1a7e.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

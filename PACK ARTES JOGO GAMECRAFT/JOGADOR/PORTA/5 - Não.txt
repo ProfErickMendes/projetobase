@@ -1,0 +1,12 @@
+Esse arquivo é referente a velócidade da animação (Speed) e se ela é em Loop ou não
+
+Essas informações vão estar no nome desse arquivo
+
+Por exemplo: 10-Sim.txt
+
+
+O número inicial é referente a: Velocidade da animação (Speed);
+
+O Sim/Não é referente ao: Loop (Sim = Com Loop / Não = Sem Loop);
+
+Coloquei no nome do arquivo para você não precisar ficar abrindo o arquivo de nota.

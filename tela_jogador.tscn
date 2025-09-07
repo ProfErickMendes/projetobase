@@ -1,6 +1,9 @@
-[gd_scene format=3 uid="uid://eshjgojgxilc"]
+[gd_scene load_steps=2 format=3 uid="uid://eshjgojgxilc"]
+
+[ext_resource type="Script" uid="uid://b38lpm5tlbgeh" path="res://tela_jogador.gd" id="1_otcey"]
 
 [node name="TelaJogador" type="Node2D"]
+script = ExtResource("1_otcey")
 
 [node name="NomeLabel" type="Label" parent="."]
 offset_left = 254.0
@@ -23,15 +26,21 @@ offset_right = 668.0
 offset_bottom = 27.0
 metadata/_edit_use_anchors_ = true
 
+[node name="Best_pontuacao" type="Label" parent="."]
+offset_left = 536.0
+offset_top = 18.0
+offset_right = 644.0
+offset_bottom = 41.0
+
 [node name="EntradaNomeLineEdit" type="TextEdit" parent="."]
 offset_left = 239.0
 offset_top = 59.0
 offset_right = 509.0
 offset_bottom = 91.0
-text = "Digite seu Nome"
+placeholder_text = "Digite seu Nome"
 metadata/_edit_use_anchors_ = true
 
-[node name="BotaoAumentarScore" type="Button" parent="."]
+[node name="Confirmar" type="Button" parent="."]
 offset_left = 295.0
 offset_top = 95.0
 offset_right = 430.0
@@ -39,10 +48,21 @@ offset_bottom = 130.0
 text = "Confirmar"
 metadata/_edit_use_anchors_ = true
 
-[node name="BotaoAumentarScore2" type="Button" parent="."]
+[node name="BotaoAumentarScore" type="Button" parent="."]
 offset_left = 296.0
 offset_top = 139.0
 offset_right = 428.0
 offset_bottom = 174.0
 text = "Pontuar"
 metadata/_edit_use_anchors_ = true
+
+[node name="Reset" type="Button" parent="."]
+offset_left = 328.0
+offset_top = 188.0
+offset_right = 401.0
+offset_bottom = 210.0
+text = "Reset"
+
+[connection signal="pressed" from="Confirmar" to="." method="_on_confirmar_pressed"]
+[connection signal="pressed" from="BotaoAumentarScore" to="." method="_on_botao_aumentar_score_pressed"]
+[connection signal="pressed" from="Reset" to="." method="_on_reset_pressed"]
